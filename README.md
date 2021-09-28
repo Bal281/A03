@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="">
-<h3>Task: Create Repository</h3>
+<!-- Defines the Task in a relatively large font -->
+<h2>Task: Create Repository</h2>
 
 <!-- Creates an unorganized list, with proper formatting -->
 <ul>
@@ -20,4 +21,6 @@
 
 Fix:  changed readme.md for definition of terms
 
+resources: https://docs.github.com/en
 </html>
+
