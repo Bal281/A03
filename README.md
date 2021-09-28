@@ -3,7 +3,7 @@
 <!-- Defines the Task in a relatively large font -->
 <h2>Task: Create Repository</h2>
 <body>
-<ul>
+<ol>
   <li>Install Webstorm through (Jetbrains: https://www.jetbrains.com)</li>
   <li>Install Git as a local program on your computer (Git: https://git-scm.com/downloads)</li>
   <li>Setup a GitHub account if you haven't already, if not click here: (https://github.com/join)</li>
@@ -19,7 +19,7 @@
   <li>While you are working on your file whenever you need your version history saved or you would like to save your project after completing a part of it you can commit which also allows you to provide a comment of what was changed/edited.</li>
   <li>When you feel confident everything is finished and ready to be shown off you can press the push button and upload your file to GitHub, or merge it if there is already existing data.</li>
   <li>You can now see the file you just worked on and pushed on GitHub!</li>
-</ul>
+</ol>
 </body>
 
 <!-- Creates an unorganized list, with proper formatting -->
